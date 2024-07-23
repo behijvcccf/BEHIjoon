@@ -7,9 +7,7 @@ yarn-error.log*
 lerna-*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
-rep.[0-9]*.[0-9]*.[0-9]*.json
-
-# Runtime d
+rep.[0-9]*.[0-9]*.[0-9]*.jso
 pids
 *.pid
 *.seed
