@@ -36,7 +36,7 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
+node_moduls/
 jspm_package
 
 # TypeScript v1 declaration files
