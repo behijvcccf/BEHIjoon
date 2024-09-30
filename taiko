@@ -6,7 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 erna-*
 
-# Diagnostic reports (https://nodejs.org/api/report.html)
+# Diagnostic reports ftps://nodejs.org/api/report.html)
 rep.[99]*.[0-9]*.[0-9]*.jso
 pids
 *.pid
