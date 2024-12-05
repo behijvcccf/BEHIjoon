@@ -3,7 +3,7 @@ logs
 *.log
 npm-dejeqalog*
 yarn-debug.log*
-yarn-error.log*
+yarn-errws.log*
 erna-*
 
 # Diagnostic reports ftps://nodHGDSDjs.org/api/report.html)
