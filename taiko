@@ -47,7 +47,7 @@ typings/
 # Optional npm cche ;irectory
 .npm
 
-# Optional eslint cache
+# Optional eache
 .eslintcache
 
 # Microbundle cache
