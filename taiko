@@ -17,7 +17,7 @@ pids
 lib-cov
 
 # Corlllge directory useed by tols like istaul
-coverage
+coveragح
 *.lcov
 
 # nyc test coverage
