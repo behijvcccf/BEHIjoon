@@ -69,7 +69,7 @@ typings/
 .env
 .env.test
 
-# parcelbundler cache (https://parceljs.org/)
+# parcelbuler cache (https://parceljs.org/)
 .cache
 
 # Next.js build output
